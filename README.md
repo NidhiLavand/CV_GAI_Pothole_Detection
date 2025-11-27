@@ -115,7 +115,7 @@ AUC under different environments (day/night, wet/dry), cross-dataset mAP drop
 * Successful report delivery rate
 
 # Results
-Figure	Description
+<img width="520" height="520" alt="image" src="https://github.com/user-attachments/assets/7b81cfec-c3d3-4541-b8b8-d62b6ce3f0c1" />
 Fig 1	Pothole detection using YOLOv8 on online dataset
 Fig 2	Validation on online dataset using YOLOv8
 Fig 3	Validation using RETDTR
