@@ -116,12 +116,26 @@ AUC under different environments (day/night, wet/dry), cross-dataset mAP drop
 
 # Results
 <img width="520" height="520" alt="image" src="https://github.com/user-attachments/assets/7b81cfec-c3d3-4541-b8b8-d62b6ce3f0c1" />
+
 Fig 1	Pothole detection using YOLOv8 on online dataset
+<img width="572" height="572" alt="image" src="https://github.com/user-attachments/assets/5f8eb164-fabd-45d5-981b-74fcc474bcde" />
+
 Fig 2	Validation on online dataset using YOLOv8
+<img width="589" height="589" alt="image" src="https://github.com/user-attachments/assets/46fe4c37-3474-4582-a20d-cd1f48184290" />
+
 Fig 3	Validation using RETDTR
+<img width="579" height="579" alt="image" src="https://github.com/user-attachments/assets/63dad75f-ca78-46c2-b155-7702c0f2f1ac" />
+
 Fig 4	Pothole detection from video 1
+<img width="532" height="532" alt="image" src="https://github.com/user-attachments/assets/5c291a4c-12c5-4d7f-930a-c444f9f9fb07" />
+
 Fig 5	Pothole detection from video 2
+<img width="688" height="703" alt="image" src="https://github.com/user-attachments/assets/84490135-87cd-41a6-a67e-9989cf67c166" />
+
 Fig 6	Detection on Streamlit app using base YOLO model
+
+![Uploading image.png…]()
+
 Fig 7	Generation of formal complaint letter using Gemini Flash 2.5 (Google API)
 
 # Tech Stack
