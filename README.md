@@ -134,7 +134,8 @@ Fig 5	Pothole detection from video 2
 
 Fig 6	Detection on Streamlit app using base YOLO model
 
-![Uploading image.png…]()
+<img width="571" height="768" alt="image" src="https://github.com/user-attachments/assets/f9b887c5-bd30-4dbb-9037-017c09e9b897" />
+
 
 Fig 7	Generation of formal complaint letter using Gemini Flash 2.5 (Google API)
 
